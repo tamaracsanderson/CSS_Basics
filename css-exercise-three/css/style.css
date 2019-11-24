@@ -25,13 +25,11 @@ h1 {
   /* made font bold */
 }
 .container {
-  background-color: white;
   margin: 0 auto;
   width: 420px;
 }
 
 .restaurant-list {
-  background-color: white;
   padding-top: 50px;
 }
 
