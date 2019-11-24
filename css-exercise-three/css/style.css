@@ -21,6 +21,7 @@ h1 {
 }
 
 .location {
+  width: 435px;
   height: 50px;
   background-color: lightgray;
   display: flex;
