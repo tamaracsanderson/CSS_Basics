@@ -20,6 +20,10 @@ h1 {
   /* made font bold */
 }
 
+#app {
+  background-color: lightgray;
+}
+
 .location {
   height: 50px;
   background-color: lightgray;
